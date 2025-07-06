@@ -4,3 +4,5 @@
 # Ignorer les datasets
 heart_failure_prediction.csvdata/heart_2022_with_nans.csv
 data/heart_2022_clean.csv
+data/heart_2022_with_nans.csv
+data/heart_2022_clean.csv
