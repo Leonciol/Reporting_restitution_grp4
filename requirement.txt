@@ -3,3 +3,4 @@ matplotlib
 notebook
 seaborn
 numpy
+scikit-learn
