@@ -4,3 +4,4 @@ notebook
 seaborn
 numpy
 scikit-learn
+spicy
